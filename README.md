@@ -9,7 +9,12 @@ The documentation is in depth and it includes:
 Algorithms
 ER diagrams
 Database design
+Flow charts
 
 ##Source code
 the system has been implemented using main.cpp main implementation being C++
-##I have run the code in my Visual Studio Code and it's executing efficiently delivering accurate results
+
+##How to Run
+I have run the code in my Visual Studio Code and it's executing efficiently delivering accurate results
+g++ main.cpp -o parking
+./parking
